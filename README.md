@@ -1,4 +1,4 @@
-semaku.github.io
+Semaku.github.io
 ================
 
 Semaku pages
